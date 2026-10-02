@@ -20,9 +20,10 @@ An e-commerce company can increase revenue while simultaneously losing value thr
 - Shipping and fulfillment expenses  
 - Payment processing fees  
 - Marketing costs
+- Poor delivery performance  
+- Inventory availability issues  
+- Low-value customer segments  
 
 The objective of this project was therefore to move beyond basic sales reporting and provide a clearer view of **how revenue translates into contribution margin and where operational activities are affecting profitability.**  
 
-Poor delivery performance
-Inventory availability issues
-Low-value customer segments
+
